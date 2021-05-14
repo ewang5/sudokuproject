@@ -1,2 +1,0 @@
-# sudokuproject
-Sudoku Puzzle
